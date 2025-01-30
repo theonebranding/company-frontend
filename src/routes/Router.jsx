@@ -28,7 +28,6 @@ import AdminSalaryManagement from "../Pages/Admins/Dashboard/Salaries";
 import AdminEmployeeSalaryProfile from "../Pages/Admins/Dashboard/Salaries/EmployeeSalary"
 
 
-
 const AppRouter = () => {
   return ( 
 
