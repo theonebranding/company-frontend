@@ -29,9 +29,7 @@ Thumbs.db
 .env.development
 .env.test
 .env.production
-.env.example
-.env.local.example
-.env.development.example
+
 
 # Babel
 backend/dist/
